@@ -1,2 +1,4 @@
 # CibMidi
-A simple Midi reader for Java
+
+#### Induction
+A simple Midi file reader for Java
